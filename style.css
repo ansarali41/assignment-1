@@ -95,3 +95,9 @@ footer p{
     text-align: center;
     font-family: 'Macondo Swash Caps', cursive
 }
+.user-review{
+    text-align: center;
+}
+.checked {
+    color: orange;
+  }
